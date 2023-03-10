@@ -18,3 +18,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About Me
+I'm a former chef turned software engineer. I love learning new things and working on weird projects with challenges I've never faced before.
+
+## Code I like write
+- Anything with a UI
+- Github Actions
+- APIs (Rest, Graph)
+
+## Things I like to cook
+- Bolognese
+- Bread
+- Just about anything
+
+## Things I like to eat
+I'll try anything twice
+
+## What I'd like to help with
+I'd really like to get more into social action coding. I'm passionate about advocacy for others, especially the undocumented and POC communities. I'd like to use my priviledge to support the voices of others
+
